@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LogupActivity"
+    android:padding="16dp">
+
+    <LinearLayout
+    android:id="@+id/linerlayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/redulogin"
+        android:padding="16dp"
+
+        >
+
+    <TextView
+        android:id="@+id/text_dispaly"
+        android:padding="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/control_panel"
+            android:textSize="20sp"
+            android:fontFamily="@font/bigshot_one"
+            android:textColor="@color/lightblue"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:gravity="center"></TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableStart="@drawable/ic_news"
+            android:drawablePadding="6dp"
+            android:padding="18dp"
+            android:text="@string/add_news"
+            android:gravity="start|center"
+            android:onClick="addnews"
+            android:textAllCaps="false"
+            android:background="@drawable/reduis"
+            android:textColor="@color/lightblue"
+            android:layout_marginBottom="10dp"/>
+
+            />
+
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:drawableStart="@drawable/ic_orphans"
+           android:drawablePadding="10dp"
+           android:padding="18dp"
+           android:text="@string/add_orphan"
+           android:gravity="start|center"
+           android:onClick="addorphans"
+           android:textAllCaps="false"
+           android:background="@drawable/reduis"
+           android:textColor="@color/lightblue"
+           android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableStart="@drawable/ic_elserly"
+            android:drawablePadding="6dp"
+            android:padding="18dp"
+            android:text="@string/add_elderly"
+            android:gravity="start|center"
+            android:onClick="addelderly"
+            android:textAllCaps="false"
+            android:background="@drawable/reduis"
+            android:textColor="@color/lightblue"
+            android:layout_marginBottom="10dp"/>
+
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableStart="@drawable/ic_logout"
+            android:drawablePadding="6dp"
+            android:padding="18dp"
+            android:text="@string/sign_out"
+            android:gravity="start|center"
+            android:onClick="logout"
+            android:textAllCaps="false"
+            android:background="@drawable/reduis"
+            android:textColor="@color/lightblue"
+            android:layout_marginBottom="10dp"/>
+
+
+    </LinearLayout>
+
+</FrameLayout>

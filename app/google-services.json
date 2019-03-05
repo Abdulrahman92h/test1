@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "60230900283",
+    "firebase_url": "https://learning-80db3.firebaseio.com",
+    "project_id": "learning-80db3",
+    "storage_bucket": "learning-80db3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60230900283:android:46887fafce281d56",
+        "android_client_info": {
+          "package_name": "com.example.ayatbahaa.waveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60230900283-vodqts37enrkb47v7bc4ckd538qov83j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayatbahaa.waveapp",
+            "certificate_hash": "f6b715752a56925ee72ee59dabcac9ebd3f4f1b5"
+          }
+        },
+        {
+          "client_id": "60230900283-8p64cmublgp9ccudualj3r13emgglnsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayatbahaa.waveapp",
+            "certificate_hash": "e53aea5920a60a09f8c291165a565b03fc4b86ac"
+          }
+        },
+        {
+          "client_id": "60230900283-7kl1nfrk4ur87cnu5cik6nc3hnm246gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbc-wzUtRmhayzFGBo0tbjhuD4PkJoS9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60230900283-7kl1nfrk4ur87cnu5cik6nc3hnm246gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60230900283:android:fa50298f24fb213b",
+        "android_client_info": {
+          "package_name": "com.example.student.ihffc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60230900283-4dk4u0dk96qs7louseemc4lqgt9qigka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student.ihffc",
+            "certificate_hash": "f6b715752a56925ee72ee59dabcac9ebd3f4f1b5"
+          }
+        },
+        {
+          "client_id": "60230900283-7kl1nfrk4ur87cnu5cik6nc3hnm246gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbc-wzUtRmhayzFGBo0tbjhuD4PkJoS9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60230900283-7kl1nfrk4ur87cnu5cik6nc3hnm246gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60230900283:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60230900283-d5aoq05skhnk94n19n22fbosi1ba5a33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "f6b715752a56925ee72ee59dabcac9ebd3f4f1b5"
+          }
+        },
+        {
+          "client_id": "60230900283-7kl1nfrk4ur87cnu5cik6nc3hnm246gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbc-wzUtRmhayzFGBo0tbjhuD4PkJoS9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60230900283-7kl1nfrk4ur87cnu5cik6nc3hnm246gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

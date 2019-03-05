@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProjectsActivity"
+    >
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+            <include layout="@layout/sidebarproject"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                ></include>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="20dp"
+            >
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:layout_width="200dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_projects"
+                android:transitionName="imageTransition2" />
+
+            <TextView
+                android:transitionName="descTransition2"
+                android:layout_marginTop="40dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/project1"
+                android:textSize="20dp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textAlignment="center"/>
+            <TextView
+                android:transitionName="descTransition2"
+                android:layout_marginTop="9dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/project2"
+                android:textSize="16dp"/>
+            <TextView
+                android:transitionName="descTransition2"
+
+                android:layout_marginTop="9dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/project3"
+                android:textSize="16dp"/>
+            <TextView
+                android:transitionName="descTransition2"
+                android:textSize="16dp"
+                android:layout_marginTop="9dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/project4"/>
+            <TextView
+                android:transitionName="descTransition2"
+                android:layout_marginTop="9dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/project5"
+                android:textSize="16dp"/>
+        </LinearLayout>
+        </LinearLayout>
+    </android.support.constraint.ConstraintLayout>
+</ScrollView>

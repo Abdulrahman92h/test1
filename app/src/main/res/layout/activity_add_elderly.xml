@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddElderlyActivity"
+    android:background="@drawable/redulogin">
+
+    <LinearLayout
+        android:id="@+id/linerlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/redulogin">
+
+        <include layout="@layout/sidebarelderly"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+        </include>
+
+
+<!--full name-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <android.support.design.widget.TextInputLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/linerlayout"
+            android:paddingTop="20dp"
+            android:layout_margin="10dp">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_text_name"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:hint="@string/enter_full_name"
+                android:inputType="text"
+                android:textColorHint="@color/lightblue" />
+
+            <ImageView
+                android:id="@+id/img1"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="125dp"
+                android:onClick="choose"
+                android:src="@drawable/ic_add_image"
+
+                app:layout_constraintVertical_bias="0.183" />
+
+        </android.support.design.widget.TextInputLayout>
+        </LinearLayout>
+
+        <!--ID-->
+        <android.support.design.widget.TextInputLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/edit_text_name"
+            android:layout_margin="10dp"
+            >
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_text_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/id"
+                android:textColorHint="@color/lightblue"
+                android:inputType="number"
+                />
+        </android.support.design.widget.TextInputLayout>
+        <!--Telephone-->
+        <android.support.design.widget.TextInputLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/edit_text_id"
+            android:layout_margin="10dp"
+            >
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_text_tp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/telephone"
+                android:textColorHint="@color/lightblue"
+                android:inputType="number"
+                />
+        </android.support.design.widget.TextInputLayout>
+        <!--Address-->
+        <android.support.design.widget.TextInputLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/edit_text_tp"
+            android:layout_margin="10dp"
+            >
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_text_ad"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Address"
+                android:textColorHint="@color/lightblue"
+                android:inputType="text" />
+        </android.support.design.widget.TextInputLayout>
+        <!--Date of birthday-->
+        <android.support.design.widget.TextInputLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/edit_text_ad"
+            android:layout_margin="10dp">
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_text_db"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/date_of_birthday"
+                android:textColorHint="@color/lightblue"
+                android:inputType="date" />
+        </android.support.design.widget.TextInputLayout>
+        <!--place of birthday-->
+        <android.support.design.widget.TextInputLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/edit_text_db"
+            android:layout_margin="10dp">
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_text_place"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/place_of_birthday"
+                android:textColorHint="@color/lightblue"
+                android:inputType="text" />
+        </android.support.design.widget.TextInputLayout>
+        <!--Social status-->
+        <android.support.design.widget.TextInputLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/edit_text_place"
+            android:layout_margin="10dp">
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_text_s"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/social_status"
+                android:textColorHint="@color/lightblue"
+                android:inputType="text" />
+        </android.support.design.widget.TextInputLayout>
+        <!--Social status-->
+        <android.support.design.widget.TextInputLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/edit_text_s"
+            android:layout_margin="10dp">
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_text_h"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/health_status"
+                android:textColorHint="@color/lightblue"
+                android:inputType="text" />
+        </android.support.design.widget.TextInputLayout>
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/edit_text_h"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/save"
+            android:background="@drawable/redubtn"
+            android:textColor="#ffff"
+            android:onClick="SaveData" />
+    </LinearLayout>
+
+
+</ScrollView>
+
+

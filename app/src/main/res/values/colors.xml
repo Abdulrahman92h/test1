@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#06537A</color>
+    <color name="colorAccent">#1EA5DE</color>
+    <color name="background_color">#F2F0EF</color>
+    <color name="sidebarcolor">#ffffff</color>
+    <color name="lightblue">#1EA5DE</color>
+    <color name="swipeDelete">#ff6666</color>
+    <color name="swipeEdit">#ffe666</color>
+    <color name="titleText">#c9c9c9</color>
+    <color name="colorBlack">#000000</color>
+    <color name="attributesLabel">#333333</color>
+    <color name="colorScrim">#99323232</color>
+</resources>

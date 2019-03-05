@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CorprateActivity"
+    android:background="@color/background_color"
+    >
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+            <include layout="@layout/sidebarcorprate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                ></include>
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:layout_width="250dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_enterprise_blue"
+                android:transitionName="imageTransition" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="20dp"
+            >
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corprate1"
+                android:layout_marginTop="9dp"
+                android:textSize="20dp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate2"
+                android:layout_marginTop="9dp"/>
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate3"
+                android:layout_marginTop="9dp"/>
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate4"
+                android:layout_marginTop="9dp"/>
+
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate5"
+                android:layout_marginTop="9dp"/>
+
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate6"
+                android:layout_marginTop="9dp"/>
+
+
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate7"
+                android:layout_marginTop="9dp"/>
+
+
+
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate8"
+                android:layout_marginTop="9dp"/>
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate9"
+                android:layout_marginTop="9dp"/>
+
+
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate10"
+                android:layout_marginTop="9dp"/>
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate11"
+                android:layout_marginTop="9dp"/>
+
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate12"
+                android:layout_marginTop="9dp"/>
+
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="@string/corprate13"
+                android:layout_marginTop="9dp"/>
+
+            <TextView
+                android:transitionName="descTransition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/corprate14"
+                android:layout_marginTop="9dp"/>
+
+        </LinearLayout>
+        </LinearLayout>
+    </android.support.constraint.ConstraintLayout>
+</ScrollView>

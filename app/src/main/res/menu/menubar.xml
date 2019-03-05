@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/news_id"
+        android:title="@string/news_nav"
+        android:onClick="news"
+        android:icon="@drawable/ic_news"
+        />
+    <item
+        android:id="@+id/orphans_id"
+        android:title="@string/orphans"
+        android:onClick="orphans"
+        android:icon="@drawable/ic_orphans"
+        />
+    <item
+        android:id="@+id/Elderly_id"
+        android:title="@string/elderly"
+        android:onClick="elderly"
+        android:icon="@drawable/ic_elserly"
+        />
+    <item
+        android:id="@+id/To_donate_id"
+        android:title="@string/donate"
+        android:onClick="donate"
+        android:icon="@drawable/ic_donation"
+        />
+
+    <item
+        android:id="@+id/Contact_Us"
+        android:title="@string/contact"
+        android:onClick="contact"
+        android:icon="@drawable/ic_contact"
+        />
+    <item
+        android:id="@+id/About"
+        android:title="@string/about"
+        android:onClick="about"
+        android:icon="@drawable/ic_info"
+        />
+
+</menu>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="about">حول</string>
+    <string name="about_corporate">"عن المؤسسة "</string>
+    <string name="about_projects">حول المشاريع</string>
+    <string name="about_team">عن المطورين</string>
+    <string name="action_settings">"الاعدادات "</string>
+    <string name="activities_nav">الفعاليات</string>
+    <string name="add_elderly">اضافة مسن</string>
+    <string name="add_news">"أضافة خبر "</string>
+    <string name="add_orphan">اضافة يتيم</string>
+    <string name="add_orphans">اضافة يتيم</string>
+    <string name="age_transition">أضافة مسن</string>
+    <string name="anonymous">مجهول</string>
+    <string name="app_name">المشروع</string>
+    <string name="birthday">تاريخ الميلاد:</string>
+    <string name="close">غلق</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تفعيل"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تفعيل خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تفعيل خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"‏مدى توفّر خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. يُرجى إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="contact">التواصل</string>
+    <string name="control_panel">لوحة التحكم</string>
+    <string name="copy_right">"جميع الحقوق محفوظه لفريق The Waves Mobile App "</string>
+    <string name="corprate1">مؤسسة البيت العراقي للإبداع</string>
+    <string name="corprate10">"سنتين الى ان يصل مرحلة الاعتماد على نفسه كونه ليس "</string>
+    <string name="corprate11">لديه من يرعاه اضافة لذلك نحن حاليا نرعى (52) طفل رعاية</string>
+    <string name="corprate12">" مباشرة في مؤسستنا ونتكفل ب(70 ) طفل رعاية غير مباشرة"</string>
+    <string name="corprate13">من خلال توفير كل احتياجاتهم مقابل ان تحرص الاسرة</string>
+    <string name="corprate14">التي ترعاهم على ان لايخرجوا للشارع لغرض العمل او التسول ويستمروا في الدراسة اسوة باقرانهم.</string>
+    <string name="corprate2">هي مؤسسة غير ربحية وغير حكومية تاسست عام 2004 تحت</string>
+    <string name="corprate3">اسم البيت الآمن للاطفال المشردين وكانت مجرد مشروع بسيط</string>
+    <string name="corprate4">يأوي عدد من الاطفال المشردين في بغداد وبمرور الوقت تطور</string>
+    <string name="corprate5">المشروع وتوسع واصبح يرعى العشرات من الاطفال الايتام</string>
+    <string name="corprate6">والمشردين وفاقدي الرعاية الاسرية وتم تسجيل المشروع</string>
+    <string name="corprate7">كمؤسسة وحصلنا على اجازة منظمات المجتمع المدني في عام 2017 وقد تخرج من هذه المؤسسة اكثر من( 270) طفل بعضهم تم دمجهم مع اسرهم (الاب او الام او الاخ )</string>
+    <string name="corprate8">وبعضهم مع اسر بديلة مثل ( العم او الخال او الجد او اي شخص في العائلة ممكن ان يرعاه) مقابل ان نقوم بالتكفل بكل احتياجاته</string>
+    <string name="corprate9">لمدة ستة اشهر الى ان يستقر ، والبعض الاخر منهم تم توظيفه في احدى مؤسسات الدولة وبعد ذلك تم تزويجه ورعايته لمدة</string>
+    <string name="currently_studying">يدرس حاليا؟</string>
+    <string name="date_of_birthday">تاريخ الميلاد</string>
+    <string name="day">يوم</string>
+    <string name="description">الوصف</string>
+    <string name="description_display">الوصف:</string>
+    <string name="diseases_display">الامراض:</string>
+    <string name="diseases_like_allergy_asthma_myopia">الامراض مثل الحساسية، الربو، قصر النظر…</string>
+    <string name="do_you_want_sign_out">هل تريد تسجيل الخروج؟</string>
+    <string name="donate">التبرع</string>
+    <string name="education">التعليم</string>
+    <string name="education_display">التعليم:</string>
+    <string name="education_level">المرحلة</string>
+    <string name="elderly">المسنيين</string>
+    <string name="elderly_registration">تسجيل المسنين</string>
+    <string name="email_hint">"البريد الالكتروني "</string>
+    <string name="empty_value_error">يجب ادخال قيمة!!</string>
+    <string name="enter_description">وصف الخبر</string>
+    <string name="enter_full_name">الاسم الكامل</string>
+    <string name="enter_title">عنوان الخبر</string>
+    <string name="error">البريد الالكتروني او الرمز السري غير صحيح</string>
+    <string name="female">انثى</string>
+    <string name="gender">الجنمس:</string>
+    <string name="health_status">الحالة الصحية</string>
+    <string name="hobbies_display">الهوايات:</string>
+    <string name="hobbies_like_playing_football_swimming">الهوايات مثل لعب كرة القدم، السباحة…</string>
+    <string name="home">الصفحة الرئيسيه</string>
+    <string name="id">رقم الهويه</string>
+    <string name="invalid_day">خطأ في اليوم!</string>
+    <string name="invalid_month">خطا في الشهر!</string>
+    <string name="invalid_year">خطأ في السنة!</string>
+    <string name="is_married">متزوج؟</string>
+    <string name="job_falah">مدير المنزل العراقي الآمن للمسنّين</string>
+    <string name="job_leader">رئيس دار الإبداع العراقي</string>
+    <string name="job_mohammed">مدير مشروع البيت العراقي للطفل</string>
+    <string name="job_mohammedkasim">مدير مشروع رعاية الأيتام والنازحين</string>
+    <string name="loading">جار\nالتحميل…</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="male">ذكر</string>
+    <string name="marital_status">الحالة الزوجية:</string>
+    <string name="married">متزوج</string>
+    <string name="month">شهر</string>
+    <string name="name">الاسم</string>
+    <string name="name_falah">فلاح حسن</string>
+    <string name="name_leader">هشام الذهبي</string>
+    <string name="name_mohammed">محمد رشيد</string>
+    <string name="name_mohammedkasim">محمد قاسم</string>
+    <string name="news_nav">الاخبار</string>
+    <string name="no_image">لاتوجد\nصورة</string>
+    <string name="no_name">لايوجد اسم</string>
+    <string name="not_available">غير متوفر</string>
+    <string name="ok">حسناً</string>
+    <string name="open">فتح</string>
+    <string name="orphans">الايتام</string>
+    <string name="orphans_registration">تسجيل الايتام</string>
+    <string name="password_hint">"الرمز السري "</string>
+    <string name="percentage">%%%1$d</string>
+    <string name="personal_image">الصورة الشخصية</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="phone_number_display">رقم الهاتف:</string>
+    <string name="place_of_birth">مكان الولادة</string>
+    <string name="place_of_birth_display">محل الولادة:</string>
+    <string name="place_of_birthday">مكان الولاده</string>
+    <string name="project1">المؤسسة لديها اربعة مشاريع مهمة</string>
+    <string name="project2">1- مشروع البيت العراقي الآمن للأطفال الأيتام والمشردين  وفاقدي الرعاية الاسرية :-  وهو مشروع لإيواء ورعاية وتأهيل الاطفال الذين يعانون من الاهمال والمشاكل النفسية والحرمان العاطفي والاستغلال الجسدي والجنسي (الايتام/المشردين/فاقدي الرعاية الاسرية) ، نحن نعمل على توفير المكان الآمن لهم وتقديم الخدمات اللازمة من خدمات صحية ونفسية وتربوية وثقافية وصولا الى مرحلة اكتشاف المواهب وتنميتها وتوجيهها على الطريق الصحيح وقد تم تخريج اكثر من (270) طفل من المشروع خلال 14 سنة وحاليا لدينا     (60) طفل من عمر سنتين الى سبعة عشر سنة.</string>
+    <string name="project3">2- مشروع البيت العراقي الآمن المسنين:-  الهدف من المشروع ايواء المسنين ورعايتهم وخصوصا من هم في الشارع حيث نعمل على نظافتهم وتقديم الخدمات الصحية لهم والرعاية الكاملة من خلال ايوائهم في البيت العراقي الآمن للمسنين وبعد شفائهم وامتلاكهم القدرة على العناية بأنفسهم  يتم تحويلهم الى دور الدولة الخاصة بالمسنين وحاليا نرعى (14) رجل مسن.</string>
+    <string name="project4">3-  مشروع كفالة الايتام عن بعد :-  اذ تقوم مؤسستنا من خلال هذا المشروع برعاية وكفالة الاطفال الايتام من كلا الجنسين وهم في بيوتهم مع والدتهم او احد اقاربهم حيث نقدم لهم راتب شهري ونوفر لهم كل احتياجاتهم اليومية من اجل اكمال دراستهم وذلك من خلال المتابعة المستمر من قبل كادر المشروع وحاليا نكفل حوالي (50) طفل ذكر وانثى .</string>
+    <string name="project5">4.  مشروع  العش الذهبي:-  قمنا ببناء 6 مشتملات صغيرة لاسكان الشباب الذين يتخرجون من مؤسستنا بعد ان يتوظفوا والذين ليس لديهم اسر حيث نقوم بتزويجهم واعطائهم مشتمل للعيش فيه لمدة سنتين مجانا وبعد ذلك يتركون المكان لكي  يشغله شاب اخر بعد ان يصل مرحلة الاعتماد على النفس وقد تم تخريج 8 شباب بعد تزويجهم والان هم اصحاب اسر وعناصر فعالة في المجتمع</string>
+    <string msgid="368094699078615544" name="s1">"حفظ الصورة"</string>
+    <string msgid="4550830452390689489" name="s2">"هل تريد السماح للإعلان بتخزين الصورة في معرض الصور؟"</string>
+    <string msgid="2435407834265420668" name="s3">"قبول"</string>
+    <string msgid="9167523597401839819" name="s4">"رفض"</string>
+    <string msgid="1566682516266724847" name="s5">"إنشاء حدث تقويم"</string>
+    <string msgid="5996672174517137271" name="s6">"هل تريد السماح للإعلان بإنشاء حدث تقويم؟"</string>
+    <string msgid="7163549807207034258" name="s7">"إعلان تجريبي"</string>
+    <string name="save">حفظ البيانات</string>
+    <string name="search">بحث</string>
+    <string name="search_elderly">البحث عن مسن</string>
+    <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
+    <string name="search_orphans">البحث عن يتيم</string>
+    <string name="settings_addition">إضافة إعدادات</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="single">غير متزوج</string>
+    <string name="skills_display">المهارات:</string>
+    <string name="skills_like_drawing_cooking_electronics_fixing">المهارات مثل الرسم، الطبخ، التصوير…</string>
+    <string name="social_status">الحاله الاجتماعية</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="studying_status">الحالة الدراسية:</string>
+    <string name="studying_status_description_1">يدرس حاليا في المستوى </string>
+    <string name="studying_status_description_2">لا يدرس حالياً</string>
+    <string name="team1">فريق من الشباب الطموحه ينتمي الى مبادره The Waves التي  تحفز على الدراسة الذاتيه</string>
+    <string name="team10">هيثم انمار</string>
+    <string name="team11">عبد الرحمن محمد</string>
+    <string name="team12">زهراء البكري</string>
+    <string name="team13">يسرى علي</string>
+    <string name="team2">يضم الفريق :</string>
+    <string name="team3">آيات بهاء</string>
+    <string name="team4">عبد الرحمن ميلان</string>
+    <string name="team5">شمس خالد</string>
+    <string name="team6">نبأ ناهض</string>
+    <string name="team7">مروان سمير</string>
+    <string name="team8">عيسى احمد</string>
+    <string name="telephone">رقم الهاتف</string>
+    <string name="title_news">عنوان الخبر</string>
+    <string name="to_donate_contact_us">"للتبرع يرجى الاتصال بالرقم التالي "</string>
+    <string name="upload_image">اختر\nصورة</string>
+    <string name="uploading">جار الرفع…</string>
+    <string name="year">سنة</string>
+    <string name="years_old">سنة</string>
+</resources>

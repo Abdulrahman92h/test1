@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="news_nav">News</string>
+    <string name="activities_nav">Activities</string>
+    <string name="orphans">Orphans</string>
+    <string name="elderly">Elderly</string>
+    <string name="donate">Donate</string>
+    <string name="contact">Contact Us</string>
+    <string name="about">About</string>
+    <string name="login">Login</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="email_hint">Enter Your Email</string>
+    <string name="password_hint">Enter Your Password</string>
+    <string name="error">Email or Password incorrect</string>
+    <string name="about_corporate">About Corporation</string>
+    <string name="about_team">About team</string>
+    <string name="about_projects">About projects</string>
+    <string name="copy_right">all copy right reserved by the wave mobile App A</string>
+    <string name="corprate1">Iraqi House Foundation for Creativity</string>
+    <string name="corprate2">Is a non-profit and non-governmental organization founded in 2004 under</string>
+    <string name="corprate3">the name of Safe House for Displaced Children. It was just a simple project</string>
+    <string name="corprate4">housing a number of displaced children in Baghdad. Over time, the project developed</string>
+    <string name="corprate5">and expanded and became the care of dozens of orphans and displaced children and family</string>
+    <string name="corprate6">carers. Civilization in 2017 has graduated from this institution more than (270) children,</string>
+    <string name="corprate7">some of whom were merged with their families (father or mother or brother) and some with alternative</string>
+    <string name="corprate8">families such as (uncle or uncle or grandfather or any person in the family can sponsor) To meet all</string>
+    <string name="corprate9">its needs for a period of six months until it stabilizes, Some of them have been employed in one of the </string>
+    <string name="corprate10">state institutions and then were promoted and cared for for two years until reaching the stage of dependence</string>
+    <string name="corprate11">on himself as he has no sponsor in addition to that we currently sponsor 52 children directly care in our </string>
+    <string name="corprate12">institution and care for 70 children indirect care By providing all their needs in exchange for the care of</string>
+    <string name="corprate13">the family that sponsors them to go out to the street for the purpose of work or begging and continue to study</string>
+    <string name="corprate14">like their peers.</string>
+    <string name="team1">A team of young aspirants belongs to the Waves initiative that stimulates self-study</string>
+    <string name="team2">The team includes:</string>
+    <string name="team3">Ayat Bahaa</string>
+    <string name="team4">Abdul Rahman Milan</string>
+    <string name="team5">Shams Khalid</string>
+    <string name="team6">Nabaa nahith</string>
+    <string name="team7">Marwan Sameer</string>
+    <string name="team8">Issa Ahmed</string>
+    <string name="team10">Haitham Anmar</string>
+    <string name="team11">Abdulrahman Mohammed</string>
+    <string name="team12">Zahraa al-Bakri</string>
+    <string name="team13">Yousra Ali</string>
+
+    <string name="project1">The Foundation has four important projects</string>
+     
+    <string name="project2">1- The Iraqi Safe House project for orphans, homeless children and family care workers:
+It is a project to provide shelter and care for children suffering from neglect, psychological problems, emotional deprivation, physical and sexual exploitation (orphans / displaced persons / family careless). We are working to provide a safe place for them and provide necessary services from health, psychological, educational and cultural services to the stage of discovering, On the right track has been graduated more than (270) children of the project in 14 years and currently we have (60) children from the age of two to seventeen years.
+</string>
+    <string name="project3"> 2- The Iraqi House Project Safe Elderly: -
+       The aim of the project is sheltering and caring for the elderly, especially those in the street, where we work to clean them up and provide them with health care and full care by sheltering them in the Iraqi safe house for the elderly. After recovery, they have the ability to take care of themselves. .
+   </string>
+    <string name="project4">3 - Project to ensure orphans by distance: -
+Through this project, our organization sponsors and ensures orphaned children of both sexes in their homes with their mother or a relative. We provide them with a monthly salary and provide them with all their daily needs in order to complete their studies through continuous follow-up by the project staff. ) Male and female child.
+</string>
+    <string name="project5"> 4. The Golden Nest Project:
+
+       We have built 6 small supplements for young people who graduate from our institution after they work and who do not have families where we marry them and give them a two year free residence. Then they leave the place to be occupied by another young man after reaching the stage of self-reliance. Now they are family owners and active members of society
+ </string>
+
+
+    <string name="name_leader">Husham althahabii</string>
+    <string name="job_leader">President of iraqi house of creativity</string>
+    <string name="name_mohammed">Mohammed rashed</string>
+    <string name="job_mohammed">Director of the iraqi house project for the child</string>
+    <string name="name_falah">Falah hassan</string>
+    <string name="job_falah">Director of the iraqi house secure for the eldery</string>
+    <string name="name_mohammedkasim">Mohammed kasim</string>
+    <string name="job_mohammedkasim">Director of project for care of orphans and displaced</string>
+    <string name="action_settings">Setting</string>
+    <string name="add_elderly">Add Elderly</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="id">ID</string>
+    <string name="telephone">Telephone</string>
+    <string name="date_of_birthday">Date of birthday</string>
+    <string name="place_of_birthday">Place of Birthday</string>
+    <string name="save">Save</string>
+    <string name="health_status">Health status</string>
+    <string name="social_status">Social status</string>
+    <string name="to_donate_contact_us">To donate contact us ...</string>
+
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="percentage">%1$d%%</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+    <string name="name">Name</string>
+    <string name="place_of_birth">Place of birth</string>
+    <string name="is_married">Married?</string>
+    <string name="education">Education</string>
+    <string name="education_level">Education level</string>
+    <string name="currently_studying">Currently studying?</string>
+    <string name="hobbies_like_playing_football_swimming">Hobbies like playing football, swimming…</string>
+    <string name="diseases_like_allergy_asthma_myopia">Diseases like allergy, Asthma, Myopia…</string>
+    <string name="year">Year</string>
+    <string name="birthday">Birthday:</string>
+    <string name="upload_image">upload\nimage</string>
+    <string name="uploading">uploading…</string>
+    <string name="personal_image">Personal image</string>
+    <string name="description">Description</string>
+    <string name="skills_like_drawing_cooking_electronics_fixing">Skills like drawing, cooking, picturing…</string>
+    <string name="years_old">years old</string>
+    <string name="add_orphan">Add Orphan</string>
+    <string name="personal_image_transition">personalImageTransition</string>
+    <string name="name_transition">nameTransition</string>
+    <string name="no_image">no\nimage</string>
+    <string name="loading">Loading…</string>
+    <string name="no_name">No name</string>
+    <string name="invalid_year">Invalid year!</string>
+    <string name="invalid_day">Invalid day!</string>
+    <string name="invalid_month">Invalid month!</string>
+    <string name="phone_number">phone number</string>
+    <string name="age_transition">ageTransition</string>
+    <string name="description_display">Description:</string>
+    <string name="diseases_display">Diseases:</string>
+    <string name="skills_display">Skills:</string>
+    <string name="hobbies_display">Hobbies:</string>
+    <string name="studying_status">Studying status:</string>
+    <string name="education_display">Education:</string>
+    <string name="marital_status">Marital status:</string>
+    <string name="gender">Gender:</string>
+    <string name="place_of_birth_display">Place of birth:</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="not_available">Not available</string>
+    <string name="studying_status_description_1">Currently studying at level</string>
+    <string name="studying_status_description_2">Not studying currently</string>
+    <string name="married">Married</string>
+    <string name="single">Single</string>
+    <string name="orphans_registration">Orphans Registration</string>
+    <string name="elderly_registration">Elderly Registration</string>
+    <string name="settings_addition">Settings Addition</string>
+    <string name="add_orphans">Add Orphans</string>
+    <string name="add_news">Add News</string>
+    <string name="phone_number_display">Phone number:</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="do_you_want_sign_out">Do you want to sign-out?</string>
+    <string name="ok">OK</string>
+    <string name="control_panel">Control Panel</string>
+    <string name="search_elderly">Search Elderly</string>
+    <string name="search_orphans">Search Orphans</string>
+
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="title_news">title_news</string>
+    <string name="empty_value_error">You must enter a value!!</string>
+
+    <string-array name="gender">
+        <item>@string/male</item>
+        <item>@string/female</item>
+    </string-array>
+</resources>
+
